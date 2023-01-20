@@ -4,6 +4,9 @@
   background: #2ddf5c;
   z-index: 1;
   padding: 8px 16px;
+  top: 0;
+  left: 0;
+  z-index: 1;
 }
 
 .main-header > div {
